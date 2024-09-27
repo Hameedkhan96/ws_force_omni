@@ -134,8 +134,8 @@ add_executable(pid_controller_ndt2 src/pid_controller_ndt2.cpp)
 target_link_libraries(pid_controller_ndt2 ${catkin_LIBRARIES} )
 
 
-add_executable(ndt2_flight_control_atquad_tanh_updated src/ndt2_flight_control_atquad_tanh_updated.cpp)
-target_link_libraries(ndt2_flight_control_atquad_tanh_updated ${catkin_LIBRARIES} )
+add_executable(hyperbolic_control_omni src/hyperbolic_control_omni.cpp)
+target_link_libraries(hyperbolic_control_omni ${catkin_LIBRARIES} )
 
 add_executable(ndt2_flight_control_atquad_tanh_force_control src/ndt2_flight_control_atquad_tanh_force_control.cpp)
 target_link_libraries(ndt2_flight_control_atquad_tanh_force_control ${catkin_LIBRARIES} )
