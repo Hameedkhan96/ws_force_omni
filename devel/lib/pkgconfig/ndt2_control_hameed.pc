@@ -1,0 +1,8 @@
+prefix=/home/hameed/ros_matlab_force_ws/devel
+
+Name: ndt2_control_hameed
+Description: Description of ndt2_control_hameed
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

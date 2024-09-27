@@ -1,0 +1,8 @@
+prefix=/home/hameed/ros_matlab_force_ws/devel
+
+Name: mpc_ndt2_control
+Description: Description of mpc_ndt2_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

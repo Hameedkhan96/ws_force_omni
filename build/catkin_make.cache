@@ -1,0 +1,2 @@
+force_repub:mpc_ndt2_control:ndt2_control_hameed:rosbag_to_csv
+-DCATKIN_DEVEL_PREFIX=/home/hameed/ros_matlab_force_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hameed/ros_matlab_force_ws/install -G Unix Makefiles

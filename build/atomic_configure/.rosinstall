@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hameed/ros_matlab_force_ws/devel/setup.sh
